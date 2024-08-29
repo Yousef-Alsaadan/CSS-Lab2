@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    /*font-weight: <weight>;*/
+    font-style: normal;
+}
+
+img .hero_backgraond{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://early-wildflower-281.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb56a855-0c74-4a0d-84dc-3fb7c76ae0b3%2F0ba5b70c-e4de-4e4b-87f9-3f873e0e9849%2FsoupHedar.jpg?table=block&id=58e976de-39d1-4fa9-968b-81680cf6e458&spaceId=fb56a855-0c74-4a0d-84dc-3fb7c76ae0b3&width=2000&userId=&cache=v2');
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero_titel{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.contenr {
+    margin-left: 15em;
+    
+    width: 900px;
+}
+
+.intro {
+    color: grey;
+}
+p, h4, ul {
+    color: gray;
+    list-style: none;
+}
+
+hr{
+    border-width: 2px;
+}
+
+.preparation_img {
+    
+}
+
+.circal{
+    background-color: rgb(243, 162, 223);
+    width: 6em;
+    height: 2em;
+    border-radius: 50%;
+    padding-top: 10px;
+}
+
+
+
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://early-wildflower-281.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb56a855-0c74-4a0d-84dc-3fb7c76ae0b3%2F0ba5b70c-e4de-4e4b-87f9-3f873e0e9849%2FsoupHedar.jpg?table=block&id=58e976de-39d1-4fa9-968b-81680cf6e458&spaceId=fb56a855-0c74-4a0d-84dc-3fb7c76ae0b3&width=2000&userId=&cache=v2");
+    background-image: url("https://early-wildflower-281.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Ffb56a855-0c74-4a0d-84dc-3fb7c76ae0b3%2F0ba5b70c-e4de-4e4b-87f9-3f873e0e9849%2FsoupHedar.jpg?table=block&id=58e976de-39d1-4fa9-968b-81680cf6e458&spaceId=fb56a855-0c74-4a0d-84dc-3fb7c76ae0b3&width=2000&userId=&cache=v2");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  
