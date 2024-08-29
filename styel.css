@@ -75,4 +75,9 @@ hr{
     transform: translate(-50%, -50%);
     color: white;
   }
-  
+  .sub_hero_backgraond{
+    position: relative;
+    left:50%;
+    height: 200px;
+    width: 200px;
+  }
